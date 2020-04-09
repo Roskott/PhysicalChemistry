@@ -1,0 +1,8 @@
+/home/maxwell/Projects/PhysicalChemistry/PhysicalChemistry/obj/Debug/netstandard2.0/PhysicalChemistry.csprojAssemblyReference.cache
+/home/maxwell/Projects/PhysicalChemistry/PhysicalChemistry/obj/Debug/netstandard2.0/PhysicalChemistry.AssemblyInfoInputs.cache
+/home/maxwell/Projects/PhysicalChemistry/PhysicalChemistry/obj/Debug/netstandard2.0/PhysicalChemistry.AssemblyInfo.cs
+/home/maxwell/Projects/PhysicalChemistry/PhysicalChemistry/bin/Debug/netstandard2.0/PhysicalChemistry.deps.json
+/home/maxwell/Projects/PhysicalChemistry/PhysicalChemistry/bin/Debug/netstandard2.0/PhysicalChemistry.dll
+/home/maxwell/Projects/PhysicalChemistry/PhysicalChemistry/bin/Debug/netstandard2.0/PhysicalChemistry.pdb
+/home/maxwell/Projects/PhysicalChemistry/PhysicalChemistry/obj/Debug/netstandard2.0/PhysicalChemistry.dll
+/home/maxwell/Projects/PhysicalChemistry/PhysicalChemistry/obj/Debug/netstandard2.0/PhysicalChemistry.pdb
